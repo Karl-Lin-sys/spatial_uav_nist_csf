@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Personal Data Protection Act (Taiwan PDPA / 個資法) Protected Files
+*.pdf
+*.doc
+*.docx
+*Resume*
+*resume*
+*.env
+secrets/
+private_logs/
