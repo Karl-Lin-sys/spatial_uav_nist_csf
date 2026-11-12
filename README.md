@@ -3,7 +3,7 @@
 ## 1. Overview
 This repository implements the core algorithms for **3D GIS Level-of-Detail (LOD) Point Cloud Processing**, **Stereo Metric 3D Reconstruction**, **UAV Moving-Platform Landing Pose Estimation**, and **Balanced Softmax Long-Tail Loss**, built in strict accordance with:
 - **NIST Cybersecurity Framework (CSF) 2.0** (`GOVERN`, `IDENTIFY`, `PROTECT`, `DETECT`, `RESPOND`, `RECOVER`)
-- **Taiwan Personal Data Protection Act (個人資料保護法 / PDPA)** & **Copyright Act (著作權法)** (zero Personal Identifiable Information or proprietary recruitment text is stored in this repository).
+- **Taiwan Personal Data Protection Act (PDPA)** & **Copyright Act** (zero Personal Identifiable Information or proprietary recruitment text is stored in this repository).
 
 ---
 
