@@ -34,4 +34,4 @@ This repository implements the core algorithms for **3D GIS Level-of-Detail (LOD
 
 ## 4. Legal Upload to GitHub (Taiwanese Law Compliance)
 
-Because all personal data (names, phone numbers, LINE IDs, resume filenames, and verbatim job postings) has been completely excluded and protected by `TaiwanPDPAComplianceGuard`, this repository is **100% legal to publish under Taiwan's Personal Data Protection Act (個人資料保護法) and Copyright Act (著作權法)**.
+Because all personal data (names, phone numbers, LINE IDs, resume filenames, and verbatim job postings) has been completely excluded and protected by `TaiwanPDPAComplianceGuard`, this repository is **100% legal to publish under Taiwan's Personal Data Protection Act and Copyright Act**.
